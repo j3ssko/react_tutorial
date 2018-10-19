@@ -1,1 +1,1 @@
-# react_tutorial
+# react_tutorial - official reactjs.org tic-tac-toe game
